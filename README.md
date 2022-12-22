@@ -20,4 +20,4 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 ---
 
-Generated with [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+Generated with [GitHub Stats Visualization](https://github.com/jstrieb/github-stats).
