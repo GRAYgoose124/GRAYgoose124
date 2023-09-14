@@ -1,4 +1,6 @@
-
+Rubber duck on waves -
+Floating through digits' ripples;
+Boolean Buoyant.
 
 ---
 
