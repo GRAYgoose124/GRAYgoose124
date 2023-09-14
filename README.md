@@ -1,6 +1,8 @@
+```
 Rubber duck on waves -
-Floating through digits' ripples;
+Digital ripples float through;
 Boolean Buoyant.
+```
 
 ---
 
